@@ -1,12 +1,10 @@
 CodeSerpent:
 
-CodeSerpent is a minimalistic console-based snake game implemented in C. This project is designed to serve as a practical introduction to key programming concepts, making it an ideal resource for learners and enthusiasts exploring C programming and basic game development.
+CodeSerpent is a console-based snake game implemented in C.
 
 Features:
 
 *Classic Snake Gameplay: Control the snake to collect food and grow in size.
-
-*Educational: Dive into the world of C programming with a focus on memory allocation, data structures, and fundamental game logic.
 
 *Simple and Accessible: CodeSerpent is a no-frills project, offering a straightforward exploration of coding principles.
 
